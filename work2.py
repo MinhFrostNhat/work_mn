@@ -2,6 +2,10 @@ import requests
 from work import set_log
 import sqlite3
 import time
+import numpy as np
+
+
+np.test
 
 logger = set_log()
 
